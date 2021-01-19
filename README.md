@@ -23,7 +23,7 @@ prepare it for feeding into my neural network models.
 Second of three notebooks chronicling the ML model building process: in this one I perform model selection by doing a
 random search of hyper parameter space to find the best parameter set for the models I consider.Analysis
 
-[model_comparison](https://github.com/cbattle12/Quantified-Self/blob/main/model_selection.ipynb)
+[model_comparison](https://github.com/cbattle12/Quantified-Self/blob/main/model_comparison.ipynb)
 
 Final notebook chronicling the ML model building process: here I compare the various models against each other and check
 to see if I was successful in my goal of building a weight prediction model with my feature set.
