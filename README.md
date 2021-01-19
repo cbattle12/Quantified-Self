@@ -21,7 +21,9 @@ prepare it for feeding into my neural network models.
 [model_selection](https://github.com/cbattle12/Quantified-Self/blob/main/model_selection.ipynb)
 
 Second of three notebooks chronicling the ML model building process: in this one I perform model selection by doing a
-random search of hyper parameter space to find the best parameter set for the models I consider.Analysis
+random search of hyper parameter space to find the best parameter set for the models I consider. Note that this notebook
+takes a long time to run (on the order of an hour on a so-so laptop) with the default number of search iterations. I've
+also erased all the model training outputs to make it more readable.
 
 [model_comparison](https://github.com/cbattle12/Quantified-Self/blob/main/model_comparison.ipynb)
 
